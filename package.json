@@ -1,0 +1,11 @@
+{
+  "name": "wetube1111",
+  "version": "1.0.0",
+  "description": "Cloning Wetube with Vanilla and NodeJs",
+  "main": "index.js",
+  "author": "Kim Hee Woong",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
